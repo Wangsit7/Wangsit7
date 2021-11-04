@@ -22,6 +22,6 @@ new experience.
 **Stats**
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zaidh15&layout=compact&theme=tokyonight)](https://github.com/Wangsit7)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wangsit7&layout=compact&theme=tokyonight)](https://github.com/Wangsit7)
 
-[![GiHhub Stats](https://github-readme-stats.vercel.app/api?username=zaidh15&show_icons=true&theme=tokyonight&count_private=true)](https://github.com/Wangsit7).
+[![GiHhub Stats](https://github-readme-stats.vercel.app/api?username=Wangsit7&show_icons=true&theme=tokyonight&count_private=true)](https://github.com/Wangsit7).
